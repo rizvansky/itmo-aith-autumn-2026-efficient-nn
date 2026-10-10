@@ -1,0 +1,14 @@
+{
+  "device": "mps",
+  "python": "3.13.5",
+  "torch": "2.14.1",
+  "torchvision": "0.29.1",
+  "batch_size": 512,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ]
+}
