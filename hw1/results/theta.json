@@ -1,0 +1,18 @@
+{
+  "latency": {
+    "overhead_s": 0.00041712254896601606,
+    "flops_per_s": 4144274307569.22,
+    "bytes_per_s": 82741585332.30838
+  },
+  "energy": {
+    "base_power_w": 63.74527780914015,
+    "joules_per_flop": 1.0577851366225178e-12,
+    "joules_per_byte": 0.0,
+    "latency": {
+      "overhead_s": 0.00041712254896601606,
+      "flops_per_s": 4144274307569.22,
+      "bytes_per_s": 82741585332.30838
+    }
+  },
+  "energy_design_condition": 696.0146768300948
+}
